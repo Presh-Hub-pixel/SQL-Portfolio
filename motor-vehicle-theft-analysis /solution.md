@@ -17,8 +17,7 @@ The analysis involves joining the following tables where necessary:
 
 ---
 
-# 📊 A. General Analysis
-
+## 🔍 General Theft Analysis
 ---
 
 ### 1. How many vehicles were stolen overall?
