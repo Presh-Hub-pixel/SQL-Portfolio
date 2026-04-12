@@ -188,6 +188,8 @@ LIMIT 1;
 
 ---
 
+## 🔍 General Theft Analysis
+
 ### 7. Are luxury vehicles stolen more than standard vehicles?
 
 ```sql
@@ -236,9 +238,6 @@ ORDER BY total_stolen DESC;
 | Pink   | 4            |
 
 
----
-
-# 📈 B. Intermediate Analysis
 
 ---
 
