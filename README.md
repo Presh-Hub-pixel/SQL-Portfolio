@@ -53,6 +53,10 @@ I am passionate about transforming raw datasets into actionable insights using S
 
 This project explores a dataset on **motor vehicle theft** to uncover trends, patterns, and risk factors associated with stolen vehicles.
 
+
+This section highlights SQL-based projects that demonstrate my ability to analyze structured datasets, extract meaningful insights, and support data-driven decision-making. 💡
+
+Each project showcases the use of **SQL for data querying, transformation, and analysis**, applying real-world analytical techniques to uncover trends and patterns. 📊
 The analysis provides insights into:
 
 * Theft frequency over time
@@ -61,12 +65,18 @@ The analysis provides insights into:
 * Time-based patterns (daily, monthly, seasonal trends)
 * Crime distribution and hotspots
 
-The objective is to transform raw crime data into meaningful insights that can support **security improvements, law enforcement strategies, and policy decisions**.
-
-🔗 **View Project on GitHub:**
-👉 [https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis](https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis)
+Below is a summary of the project included in this repository:
 
 ---
+
+### 📊 Project Summary
+
+| Project Link                                                                                                                                                               | Area of Analysis                                       | Project Description                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚗 Motor Vehicle Theft Analysis <br> 🔗 [https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis](https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis) | Crime Data Analysis, Trend Analysis, Regional Insights | Explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. Utilizes SQL joins, aggregations, and filtering techniques to generate actionable insights for decision-making. |
+
+---
+
 
 ## 🔍 Key Analysis Performed
 
