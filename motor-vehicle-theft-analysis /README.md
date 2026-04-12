@@ -206,7 +206,7 @@ If you have any questions, suggestions, or feedback:
 Data Analyst | SQL Developer | BI Enthusiast
 
 📧 [rotimipreciousenny04@gmail.com](mailto:rotimipreciousenny04@gmail.com)
-🔗 LinkedIn: Rotimi Precious
+🔗 LinkedIn: Rotimi Precious Eniola
 
 ---
 
