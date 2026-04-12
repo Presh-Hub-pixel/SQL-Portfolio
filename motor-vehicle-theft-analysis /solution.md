@@ -186,10 +186,6 @@ LIMIT 1;
 | ----------- | ------------ |
 | New Zealand | 4553         |
 
----
-
-## 🔍 General Theft Analysis
-
 ### 7. Are luxury vehicles stolen more than standard vehicles?
 
 ```sql
@@ -308,11 +304,6 @@ FROM stolen_vehicles;
 | 20.77 years |
 
 
----
-
-## 🌍 Regional & Demographic Insight
-
-
 ### 13. What is the breakdown of vehicle types by make type?
 
 ```sql
@@ -350,9 +341,6 @@ ORDER BY total_stolen DESC;
 | Luxury    | Trailer      | 3            |
 | Luxury    | Other        | 2            |
 
----
-
-# 🔍 C. Time based Analysis
 
 ---
 
