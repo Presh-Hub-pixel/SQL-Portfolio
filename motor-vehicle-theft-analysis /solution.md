@@ -307,7 +307,11 @@ FROM stolen_vehicles;
 | ----------- |
 | 20.77 years |
 
+
 ---
+
+## 🌍 Regional & Demographic Insight
+
 
 ### 13. What is the breakdown of vehicle types by make type?
 
@@ -348,7 +352,7 @@ ORDER BY total_stolen DESC;
 
 ---
 
-# 🔍 C. Advanced Analysis
+# 🔍 C. Time based Analysis
 
 ---
 
