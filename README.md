@@ -1,6 +1,5 @@
-# SQL-Portfolio
 
----
+
 
 # 🚗 SQL Project Portfolio
 
@@ -19,8 +18,6 @@ As a Data Analyst, I combine **analytical thinking with SQL querying techniques*
 2️⃣ [📊 Project Overview – Motor Vehicle Theft Analysis](#-project-overview--motor-vehicle-theft-analysis)
 
 3️⃣ [🔍 Key Analysis Performed](#-key-analysis-performed)
-
-4️⃣ [🎯 Key Insights & Findings](#-key-insights--findings)
 
 5️⃣ [🛠 Technologies & Tools](#-technologies--tools)
 
@@ -67,7 +64,7 @@ The analysis provides insights into:
 The objective is to transform raw crime data into meaningful insights that can support **security improvements, law enforcement strategies, and policy decisions**.
 
 🔗 **View Project on GitHub:**
-👉 [https://github.com/your-username/motor-vehicle-theft-analysis](https://github.com/your-username/motor-vehicle-theft-analysis)
+👉 [https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis](https://github.com/Presh-Hub-pixel/motor-vehicle-theft-analysis)
 
 ---
 
@@ -83,19 +80,10 @@ The objective is to transform raw crime data into meaningful insights that can s
 
 ---
 
-## 🎯 Key Insights & Findings
-
-* Certain regions have significantly higher vehicle theft rates
-* Specific vehicle types are more frequently targeted
-* Theft incidents show noticeable seasonal and monthly trends
-* Peak theft periods occur at specific times of the day
-* Data patterns can support predictive crime analysis
-
----
 
 ## 🛠 Technologies & Tools
 
-🧮 SQL (MySQL / PostgreSQL / SQL Server)
+🧮 SQL (MySQL)
 
 📊 Data Querying & Aggregation
 
@@ -134,4 +122,5 @@ Data Analyst | SQL Developer | Business Intelligence Enthusiast
 ⭐ *Transforming raw data into actionable insights using SQL and data analytics.*
 
 ---
+
 
