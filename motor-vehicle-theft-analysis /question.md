@@ -18,8 +18,7 @@ This document outlines the key analytical questions explored in the **Motor Vehi
 
 ---
 
-## 🚗 Vehicle Characteristics Analysis
-
+## 🔍 General Theft Analysis
 7. Are luxury vehicles stolen more than standard vehicles?
 8. What colors are most commonly stolen?
 9. What is the average age of stolen vehicles?
