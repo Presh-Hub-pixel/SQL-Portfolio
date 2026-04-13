@@ -72,11 +72,9 @@ Below is a summary of the project included in this repository:
 
 ### 📊 Project Summary
 
-| Project Link                                                                                                                                                               | Area of Analysis                                       | Project Description                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚗 Motor Vehicle Theft Analysis <br> 🔗 📊 [Motor Vehicle Theft Analysis](./motor-vehicle-theft-analysis/)
-|Crime Data Analysis, Trend Analysis, Regional Insights | Explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. Utilizes SQL joins, aggregations, and filtering techniques to generate actionable insights for decision-making. |
-
+| 🚗 Project | 🔗 Project Link | 📊 Area of Analysis | 🧾 Project Description |
+|------------|----------------|---------------------|------------------------|
+| Motor Vehicle Theft Analysis | [View Project](./motor-vehicle-theft-analysis/) | Crime Data Analysis, Trend Analysis, Regional Insights | This project explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. It uses SQL techniques such as joins, aggregations, filtering, subqueries, and window functions to generate actionable insights for decision-making. |
 ---
 
 
