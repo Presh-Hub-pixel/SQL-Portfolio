@@ -15,7 +15,8 @@ As a Data Analyst, I combine **analytical thinking with SQL querying techniques*
 
 1️⃣ [👩‍💻 About Me](#-about-me)
 
-2️⃣ [📊 Project Overview – 📊 [Motor Vehicle Theft Analysis Dashboard](./motor-vehicle-theft-analysis/)
+2️⃣ [📊 Project Overview –
+[Motor Vehicle Theft Analysis Dashboard](./motor-vehicle-theft-analysis/)
 
 3️⃣ [🔍 Key Analysis Performed](#-key-analysis-performed)
 
@@ -73,7 +74,7 @@ Below is a summary of the project included in this repository:
 
 | Project Link                                                                                                                                                               | Area of Analysis                                       | Project Description                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚗 Motor Vehicle Theft Analysis <br> 🔗 📊 📊 [Motor Vehicle Theft Analysis Dashboard](./motor-vehicle-theft-analysis/)| Crime Data Analysis, Trend Analysis, Regional Insights | Explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. Utilizes SQL joins, aggregations, and filtering techniques to generate actionable insights for decision-making. |
+| 🚗 Motor Vehicle Theft Analysis <br> 🔗 📊 [Motor Vehicle Theft Analysis Dashboard](./motor-vehicle-theft-analysis/)| Crime Data Analysis, Trend Analysis, Regional Insights | Explores motor vehicle theft data to identify high-risk regions, most stolen vehicle types, and time-based trends. Utilizes SQL joins, aggregations, and filtering techniques to generate actionable insights for decision-making. |
 
 ---
 
