@@ -16,6 +16,7 @@ As a Data Analyst, I combine **analytical thinking with SQL querying techniques*
 1️⃣ [👩‍💻 About Me](#-about-me)
 
 2️⃣ [📊 Project Overview –
+
 [Motor Vehicle Theft Analysis](https://github.com/Presh-Hub-pixel/SQL-Portfolio/tree/main/motor-vehicle-theft-analysis%20)
 
 3️⃣ [🔍 Key Analysis Performed](#-key-analysis-performed)
